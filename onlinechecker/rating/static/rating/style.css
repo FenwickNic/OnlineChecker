@@ -1,0 +1,22 @@
+header.masthead {
+  padding-top: 10rem;
+  padding-bottom: calc(10rem - 72px);
+  background:  url("img/1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+form{
+  background-color: rgba(255,255,255,0.7)
+}
+.fa.fa-star, .fa.fa-star-o {
+  color: #007bff;
+  font-size: 25px;
+  padding: 0 5px;
+}
+
+.fa.fa-star-o:hover{
+  color: #004fdd;
+}
